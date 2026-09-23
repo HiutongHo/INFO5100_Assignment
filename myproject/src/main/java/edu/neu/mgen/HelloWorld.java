@@ -64,5 +64,8 @@ public class HelloWorld {
         System.out.println("!isTrue=" + !isTrue);
         System.out.println("x2<x1:" + (x2 < x1));
         
+        /* This is 
+         * a multi-line comment
+         */
     }
 }
